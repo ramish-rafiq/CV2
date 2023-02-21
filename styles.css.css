@@ -1,0 +1,77 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+  body{
+    background-color:#B99B6B;
+  }
+  h1{
+    text-align: center;
+    font-family: 'ubuntu';
+  }
+  .top-container{
+    text-align: center;
+    background-color: burlywood;
+    padding: 25px;
+  }
+  .hr{
+    border-color: black;
+  }
+  .p1{
+    font-family: 'ubuntu';
+  }
+  .mid-container{
+    text-align: center;
+    background-color: burlywood;
+  }
+.profile2{
+    width: 500px; height: 400px;
+    padding: 50px;
+}
+.p2{
+    font-family: 'ubuntu';
+}
+.profile3{
+    width: 350px; height: 250px;
+}
+.link1{
+    font-size: 30px;
+    text-decoration: none;
+}
+.link2{
+    font-size: 30px;
+    text-decoration: none;
+}
+.link1:hover{
+    color: brown;
+    font-size: 30px;
+}
+.link2:hover{
+    color: brown;
+    font-size: 30px;
+}
+.h4{
+    font-family: 'ubuntu';
+    font-weight: normal;
+}
+.p3{
+    font-family: 'ubuntu';
+}
+a{
+  text-decoration: none;
+}
+.profile{
+  width: 600px; height: 600px;
+  border-radius: 350px;
+}
+.hello{
+  padding-top: 50px;
+  text-decoration: underline;
+}
+.navbar-brand{
+  font-family: 'dancing script';
+  padding-left: 20px;
+}
+.Logo{
+  width: 200px;
+}
